@@ -41,3 +41,23 @@ Analyze customer preferences by exploring the relationship between cuisines, res
 
 ## Conclusion
 The analysis revealed the most popular cuisines based on customer votes and identified cuisines that consistently receive higher ratings. These insights help understand customer preferences and restaurant performance.
+# Level 3 - Task 3: Data Visualization
+
+## Objective
+Create visualizations to understand the distribution of restaurant ratings and analyze relationships between different features and the target variable.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+## Steps Performed
+- Visualized the distribution of aggregate ratings using a histogram and bar chart.
+- Compared the average ratings of the top cuisines.
+- Compared the average ratings of the top cities.
+- Analyzed the relationship between customer votes and aggregate ratings using a scatter plot.
+- Compared average ratings across different price ranges.
+
+## Conclusion
+The visualizations helped identify rating patterns, compare cuisines and cities, and understand how features such as votes and price range relate to restaurant ratings.
